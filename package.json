@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@vue/cli-plugin-babel": "4.1.1",
-    "scss-loader": "0.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
